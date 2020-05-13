@@ -4,9 +4,9 @@ import org.junit.Test;
 
 public class HighestInteger {
 
-/*
-searching second highest integer in an array
- */
+    /*
+    searching second highest integer in an array
+     */
     public int findHighestNumber(int[] a) {
 
         int first, second;
@@ -14,10 +14,11 @@ searching second highest integer in an array
 
         for (int i = 0; i < a.length; i++) {
             if (a[i] > first) {
-                second=first;
+                second = first;
                 first = a[i];
-            }if(a[i]>second && a[i]!=first){
-                second=a[i];
+            }
+            if (a[i] > second && a[i] != first) {
+                second = a[i];
             }
         }
         return second;
