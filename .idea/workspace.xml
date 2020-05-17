@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb2b0882-3428-4f3e-9030-f7fcf226858f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Array/SmallestNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/Helper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/RemoveElement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/java_code/Array/HighestInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_code/Array/HighestInteger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_code/Array/SmallestNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_code/Array/SmallestNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkedList/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkedList/Reverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/Reverse.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,35 +20,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Square.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Square.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="900">
-              <caret line="52" column="25" selection-start-line="52" selection-start-column="25" selection-end-line="52" selection-end-column="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ReverseArray.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Array/ReverseArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="129">
-              <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="FindChar.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/String/FindChar.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
+            <state relative-caret-position="1062">
+              <caret line="63" selection-start-line="63" selection-end-line="63" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -55,8 +35,8 @@
       <file leaf-file-name="MoveZeros.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Array/MoveZeros.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="155">
-              <caret line="17" column="48" lean-forward="true" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
+            <state relative-caret-position="234">
+              <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -67,7 +47,7 @@
       <file leaf-file-name="MoveNegative.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Array/MoveNegative.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
+            <state relative-caret-position="306">
               <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -76,11 +56,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SmallestNumber.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SmallestNumber.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Array/SmallestNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="21" column="27" lean-forward="true" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+            <state relative-caret-position="306">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -94,29 +74,54 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Anagram.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/String/Anagram.java">
+      <file leaf-file-name="DecodeString.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/String/DecodeString.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="341">
-              <caret line="34" column="90" selection-start-line="34" selection-start-column="90" selection-end-line="34" selection-end-column="90" />
+              <caret line="70" column="36" selection-start-line="70" selection-start-column="36" selection-end-line="70" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Polyndrom_Integer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Palyndrom/Polyndrom_Integer.java">
+      <file leaf-file-name="Reverse.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LinkedList/Reverse.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+            <state relative-caret-position="414">
+              <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Polyndrom_String.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Palyndrom/Polyndrom_String.java">
+      <file leaf-file-name="Helper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LinkedList/Helper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" column="54" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
+            <state relative-caret-position="180">
+              <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RemoveElement.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/LinkedList/RemoveElement.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="248">
+              <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Node.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LinkedList/Node.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+              <folding>
+                <element signature="e#88#89#0" expanded="true" />
+                <element signature="e#112#113#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -140,12 +145,17 @@
         <option value="$PROJECT_DIR$/src/Palyndrom/Polyndrom_Integer.java" />
         <option value="$PROJECT_DIR$/src/Palyndrom/Polyndrom_String.java" />
         <option value="$PROJECT_DIR$/src/Array/ReverseArray.java" />
-        <option value="$PROJECT_DIR$/src/Array/HighestInteger.java" />
         <option value="$PROJECT_DIR$/src/String/Anagram.java" />
         <option value="$PROJECT_DIR$/src/String/FindChar.java" />
         <option value="$PROJECT_DIR$/src/Array/MoveZeros.java" />
         <option value="$PROJECT_DIR$/src/Array/MoveNegative.java" />
         <option value="$PROJECT_DIR$/src/Array/SmallestNumber.java" />
+        <option value="$PROJECT_DIR$/src/Array/HighestInteger.java" />
+        <option value="$PROJECT_DIR$/src/String/DecodeString.java" />
+        <option value="$PROJECT_DIR$/src/LinkedList/Node.java" />
+        <option value="$PROJECT_DIR$/src/LinkedList/Helper.java" />
+        <option value="$PROJECT_DIR$/src/LinkedList/Reverse.java" />
+        <option value="$PROJECT_DIR$/src/LinkedList/RemoveElement.java" />
       </list>
     </option>
   </component>
@@ -161,9 +171,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -186,6 +193,12 @@
               <item name="java_code" type="b2602c69:ProjectViewProjectNode" />
               <item name="java_code" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="LinkedList" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Palyndrom" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -198,6 +211,9 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -215,11 +231,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SmallestNumber.test">
+  <component name="RunManager" selected="JUnit.RemoveElement">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="Anagram.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="DecodeString.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java_code" />
       <extension name="coverage">
         <pattern>
@@ -230,7 +246,7 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="String" />
-      <option name="MAIN_CLASS_NAME" value="String.Anagram" />
+      <option name="MAIN_CLASS_NAME" value="String.DecodeString" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -242,18 +258,41 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="FindChar.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RemoveElement" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java_code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="String.*" />
+          <option name="PATTERN" value="LinkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="String" />
-      <option name="MAIN_CLASS_NAME" value="String.FindChar" />
+      <option name="PACKAGE_NAME" value="LinkedList" />
+      <option name="MAIN_CLASS_NAME" value="LinkedList.RemoveElement" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="RemoveElement.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java_code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LinkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="LinkedList" />
+      <option name="MAIN_CLASS_NAME" value="LinkedList.RemoveElement" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -265,41 +304,18 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="MoveNegative.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Reverse.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java_code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array.*" />
+          <option name="PATTERN" value="LinkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="Array" />
-      <option name="MAIN_CLASS_NAME" value="Array.MoveNegative" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="MoveZeros.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java_code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="Array" />
-      <option name="MAIN_CLASS_NAME" value="Array.MoveZeros" />
+      <option name="PACKAGE_NAME" value="LinkedList" />
+      <option name="MAIN_CLASS_NAME" value="LinkedList.Reverse" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -373,19 +389,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.Anagram.test" />
-      <item itemvalue="JUnit.FindChar.test" />
-      <item itemvalue="JUnit.MoveZeros.test" />
-      <item itemvalue="JUnit.MoveNegative.test" />
       <item itemvalue="JUnit.SmallestNumber.test" />
+      <item itemvalue="JUnit.DecodeString.test" />
+      <item itemvalue="JUnit.Reverse.test" />
+      <item itemvalue="JUnit.RemoveElement.test" />
+      <item itemvalue="JUnit.RemoveElement" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.RemoveElement" />
+        <item itemvalue="JUnit.RemoveElement.test" />
+        <item itemvalue="JUnit.Reverse.test" />
+        <item itemvalue="JUnit.DecodeString.test" />
         <item itemvalue="JUnit.SmallestNumber.test" />
-        <item itemvalue="JUnit.MoveNegative.test" />
-        <item itemvalue="JUnit.MoveZeros.test" />
-        <item itemvalue="JUnit.FindChar.test" />
-        <item itemvalue="JUnit.Anagram.test" />
       </list>
     </recent_temporary>
   </component>
@@ -403,35 +419,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MoveNegative_test - 2020.05.12 at 16h 25m 30s.xml">
-      <configuration name="MoveNegative.test" configurationId="JUnit" />
+    <history-entry file="RemoveElement_test - 2020.05.17 at 15h 01m 55s.xml">
+      <configuration name="RemoveElement.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MoveNegative_test - 2020.05.12 at 16h 28m 00s.xml">
-      <configuration name="MoveNegative.test" configurationId="JUnit" />
+    <history-entry file="RemoveElement_test - 2020.05.17 at 15h 08m 39s.xml">
+      <configuration name="RemoveElement.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MoveNegative_test - 2020.05.12 at 16h 29m 11s.xml">
-      <configuration name="MoveNegative.test" configurationId="JUnit" />
+    <history-entry file="RemoveElement_test - 2020.05.17 at 15h 09m 34s.xml">
+      <configuration name="RemoveElement.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MoveNegative_test - 2020.05.12 at 16h 29m 46s.xml">
-      <configuration name="MoveNegative.test" configurationId="JUnit" />
+    <history-entry file="RemoveElement_test - 2020.05.17 at 15h 10m 38s.xml">
+      <configuration name="RemoveElement.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MoveNegative_test - 2020.05.12 at 16h 36m 50s.xml">
-      <configuration name="MoveNegative.test" configurationId="JUnit" />
+    <history-entry file="RemoveElement - 2020.05.17 at 15h 11m 07s.xml">
+      <configuration name="RemoveElement" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MoveZeros_test - 2020.05.12 at 16h 38m 05s.xml">
-      <configuration name="MoveZeros.test" configurationId="JUnit" />
+    <history-entry file="RemoveElement - 2020.05.17 at 15h 11m 13s.xml">
+      <configuration name="RemoveElement" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MoveNegative_test - 2020.05.12 at 16h 41m 06s.xml">
-      <configuration name="MoveNegative.test" configurationId="JUnit" />
+    <history-entry file="RemoveElement - 2020.05.17 at 15h 14m 20s.xml">
+      <configuration name="RemoveElement" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MoveNegative_test - 2020.05.12 at 16h 41m 09s.xml">
-      <configuration name="MoveNegative.test" configurationId="JUnit" />
+    <history-entry file="RemoveElement - 2020.05.17 at 15h 14m 26s.xml">
+      <configuration name="RemoveElement" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MoveNegative_test - 2020.05.12 at 16h 41m 43s.xml">
-      <configuration name="MoveNegative.test" configurationId="JUnit" />
+    <history-entry file="RemoveElement - 2020.05.17 at 15h 14m 40s.xml">
+      <configuration name="RemoveElement" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MoveNegative_test - 2020.05.12 at 16h 41m 58s.xml">
-      <configuration name="MoveNegative.test" configurationId="JUnit" />
+    <history-entry file="RemoveElement - 2020.05.17 at 15h 14m 44s.xml">
+      <configuration name="RemoveElement" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -446,12 +462,12 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.25575757" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25575757" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.31151515" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.31151515" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15808298" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16237482" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -471,10 +487,143 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="2" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Array/MoveNegative.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Array/SmallestNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Array/HighestInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/String/Anagram.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="34" column="90" selection-start-line="34" selection-start-column="90" selection-end-line="34" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Palyndrom/Polyndrom_String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="54" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/String/DecodeString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1206">
+          <caret line="70" column="36" selection-start-line="70" selection-start-column="36" selection-end-line="70" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Square.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="52" column="25" selection-start-line="52" selection-start-column="25" selection-end-line="52" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Array/ReverseArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/String/FindChar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1062">
+          <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Array/MoveZeros.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="17" column="48" lean-forward="true" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Array/MoveNegative.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Array/SmallestNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/String/Anagram.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="34" column="90" selection-start-line="34" selection-start-column="90" selection-end-line="34" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Palyndrom/Polyndrom_Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Palyndrom/Polyndrom_String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="54" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Array/HighestInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Square.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="900">
@@ -666,24 +815,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Array/HighestInteger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/String/Anagram.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
+        <state relative-caret-position="612">
           <caret line="34" column="90" selection-start-line="34" selection-start-column="90" selection-end-line="34" selection-end-column="90" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Array/ReverseArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        <state relative-caret-position="162">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -692,8 +834,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/String/FindChar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
+        <state relative-caret-position="1062">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -702,8 +844,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Array/MoveZeros.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="17" column="48" lean-forward="true" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
+        <state relative-caret-position="234">
+          <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -712,7 +854,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Array/MoveNegative.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
+        <state relative-caret-position="306">
           <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -722,8 +864,57 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Array/SmallestNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="21" column="27" lean-forward="true" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+        <state relative-caret-position="306">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Array/HighestInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/String/DecodeString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="70" column="36" selection-start-line="70" selection-start-column="36" selection-end-line="70" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedList/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+          <folding>
+            <element signature="e#88#89#0" expanded="true" />
+            <element signature="e#112#113#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedList/Helper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedList/Reverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedList/RemoveElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
         </state>
       </provider>
     </entry>
